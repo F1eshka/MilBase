@@ -1,0 +1,4 @@
+﻿  MilitaryBase.cpp
+C:\Users\Rog\source\repos\MilitaryBase\MilitaryBase.cpp(252,26): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Rog\source\repos\MilitaryBase\MilitaryBase.cpp(264): warning C4715: Truck::Leave: значение возвращается не при всех путях выполнения
+  MilitaryBase.vcxproj -> C:\Users\Rog\source\repos\MilitaryBase\x64\Debug\MilitaryBase.exe
